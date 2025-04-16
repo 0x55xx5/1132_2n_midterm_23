@@ -59,7 +59,7 @@ Mid2: 40% 開放網路
 
 ##### => 顯示 Github URL and Vercel URL for midterm
 
-[Github Midterm URL](https://github.com/htchung/1132_2N_midterm_23)
+[Github Midterm URL](https://1132-2n-midterm-23-hyzx.vercel.app/)
 
 [Vercel Midterm URL](https://1132_2N_midterm_23.vercel.app/)
 

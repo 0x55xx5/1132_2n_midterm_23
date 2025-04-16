@@ -1,10 +1,10 @@
 'use client';
 
-const Tour_xx = ({ id, img, name, price, info }) => {
+const Tour_xx = ({ id, img, name, price, info, remote_img }) => {
   return (
     <div>
       <article class='single-tour'>
-        <img src={img} alt='Best of Paris in 7 Days Tour' />
+        <img src={remote_img} alt='Best of Paris in 7 Days Tour' />
         <footer>
           <div class='tour-info'>
             <h4>{name}</h4>
